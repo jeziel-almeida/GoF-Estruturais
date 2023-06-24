@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "padroesgof/src/main/java",
+        "padroesgof/src/test/java"    
+    ]
+}
